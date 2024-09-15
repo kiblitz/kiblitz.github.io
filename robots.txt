@@ -1,0 +1,4 @@
+Sitemap: https://kiblitz.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: kiblitz.github.io
